@@ -63,7 +63,4 @@ A ação mais frequente foi a **verificação física recomendada**, seguida por
 
 ---
 
-## 🗂️ Sobre o Projeto
-
-Este dashboard foi construído com foco em análise operacional, utilizando ferramentas de visualização para facilitar decisões estratégicas no setor de suporte técnico. 
 
